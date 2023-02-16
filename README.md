@@ -7,7 +7,6 @@
 - ReactJs
 - Typescript
 - TailwindCss
-- Firebase
 - Construido com Vite
 
 <br/>
